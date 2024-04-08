@@ -1,0 +1,1 @@
+University Project. Statistical time series forecast for CNA stock price with basic methods (Mean, Naive and Random walk with drift methods). Please find Stock_Price_Forecast_Basic.md for the document.
